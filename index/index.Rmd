@@ -12,7 +12,7 @@ Aside
 ================================================================================
 
 
-![John Paul Hunter](profile.jpg){width=80%}
+![John Paul Hunter](DSC_4241_prof.JPG){width=80%}
 
 
 I’m an experienced Software Engineer who builds software applications for Data Science. I specialise in implementing agile, collaborative workflows, reproducible analyses, and software engineering.
@@ -29,7 +29,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Expert in R and R Studio with emphasis on the Tidyverse
+- Expert in R and R Studio with emphasis on R-Shiny
 
 - Expert in communicating to scientific and general public
 
@@ -83,11 +83,8 @@ Frankston, Victoria
 
 2018-Present
 
-Worked across the Reliability Planning and Delivery Teams and with the organisation to apply Data Science initiatives for the better management of assets. 
-
-Led the development, maintenance, and continuous improvement of asset reliability data models and tools to support the efficient and effective planning and delivery of water and sewer reliability management plans and programs.  
-
-
+- Worked with the Reliability Planning and Delivery Teams and the organisation to apply Data Science initiatives for the better management of assets. 
+- Led the development, maintenance, and continuous improvement of asset reliability data models and tools to support the efficient and effective planning and delivery of water and sewer reliability management plans and programs.  
 -	Applied a Data Science oriented approach to the development, maintenance, and continuous improvement of spatial data analytic models, predictive models for asset failure risks and visualisation tools for the planning and delivery of the water and sewer network reliability program.
 - Curated	and developed core data manipulation routines.
 - Implemented Quality Assurance and Knowledge Management best practices. 
@@ -100,7 +97,6 @@ Led the development, maintenance, and continuous improvement of asset reliabilit
 -Assisted in the preparation of accurate and timely financial information by participating in tasks including month end reconciliations, forecasting and project reporting.
 -	Assisted in stakeholder training and provided advice and support to ensure the effective and efficient use of workflows, tooling and outputs.
 - Actively engaged with the industry and knowledge sharing events.
-
 
 Software Engineering Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -116,8 +112,6 @@ Chadstone, Victoria
 <!--::: concise-->
 - Successfully delivered a new front end stack for the JB Hi-Fi retail website to provide a new range of delivery and payment options to delight end-users of the retail website. Online sales grew 32.1% to $209.9 million or 4.6% of total sales, largely due to these improvements.
 - a key member of the development squad responsible for the launch of the new JB HiFi New Zealand website, resulting in online sales in New Zealand growing 96.3% to NZD9.6 million or 4.1% of total sales.
-- worked as a part of a multi-disciplinary team as a front end specialist in a fast paced agile development environment
-- liaised with key stake holders and project owners to determine requirements and scope of work
 <!--:::-->
 
 ### Software Developer
