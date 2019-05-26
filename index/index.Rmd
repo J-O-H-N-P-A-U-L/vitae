@@ -12,7 +12,7 @@ Aside
 ================================================================================
 
 
-![John Paul Hunter](DSC_4241_prof.JPG){width=80%}
+![John Paul Hunter](DSC_4251_prof.JPG){width=80%}
 
 
 I’m an experienced Software Engineer who builds software applications for Data Science. I specialise in implementing agile, collaborative workflows, reproducible analyses, and software engineering.
