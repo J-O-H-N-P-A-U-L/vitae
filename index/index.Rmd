@@ -83,20 +83,18 @@ Frankston, Victoria
 
 2018-Present
 
-- Worked with the Reliability Planning and Delivery Teams and the organisation to apply Data Science initiatives for the better management of assets. 
-- Led the development, maintenance, and continuous improvement of asset reliability data models and tools to support the efficient and effective planning and delivery of water and sewer reliability management plans and programs.  
--	Applied a Data Science oriented approach to the development, maintenance, and continuous improvement of spatial data analytic models, predictive models for asset failure risks and visualisation tools for the planning and delivery of the water and sewer network reliability program.
-- Curated	and developed core data manipulation routines.
-- Implemented Quality Assurance and Knowledge Management best practices. 
--	Curated, developed and maintained, reports and dashboards to support effective performance management of reliability planning and delivery programs.  
--	Assisted in the preparation of Asset Management plans.
--	A key player in supporting the South East Water Data Science transformation, sharing and embracing learnings and best practices.
--	Worked with the organisation to engage in the definition of requirements, methodology, outcomes and improvements of data models and tools. 
--	Led and managed projects, prepared business requirements specifications documents, project briefs, prepared reports, cost estimations and business cases. 
--	Engaged and worked with South East Water's consultants and partners.
--Assisted in the preparation of accurate and timely financial information by participating in tasks including month end reconciliations, forecasting and project reporting.
--	Assisted in stakeholder training and provided advice and support to ensure the effective and efficient use of workflows, tooling and outputs.
-- Actively engaged with the industry and knowledge sharing events.
+-	To apply a Data Science oriented approach to the development, maintenance, and continuous improvement of spatial data analytic models, predictive models for asset failure risks and visualisation tools for the planning and delivery of the water and sewer network reliability program.
+- Curate data and the develop core data manipulation routines.
+-	Implement Quality Assurance and Knowledge Management best practices. Create and maintain specifications documentation, identify and implement effective improvements to processes, procedures and engagement with internal and external stakeholders. 
+-	Curate, develop and maintain reports and dashboards to support effective performance management of reliability planning and delivery programs.  
+-	To assist in the preparation of Asset Management plans.
+-	Became a key player in supporting the South East Water data science transformation, sharing and embracing learnings and best practices, engaging and influencing stakeholders across the business. 
+- To Engage in the definition of requirements, methodology, outcomes or improvements of data models and tools. 
+-	To lead and manage projects and data science initiatives across reliability function,prepare business requirements specifications documents, project briefs, prepare reports, cost estimations and business cases. 
+-	To engage and work with South East Water's consultants and partners.
+-	Assist in the preparation of accurate and timely financial information by undertaking tasks including month end reconciliations, forecasting and project reporting.
+-	Assist in stakeholder training, advice and support to ensure the effective and efficient use of workflows, tooling and outputs.
+-	Actively engage with the industry and knowledge sharing events.
 
 Software Engineering Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
